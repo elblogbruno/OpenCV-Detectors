@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto" >
+    <!-- Search, should appear as action button -->
+    <item
+        android:id="@+id/camera_change"
+        android:icon="@drawable/ic_switch_camera_black_24dp"
+        android:title="@string/app_name"
+        yourapp:showAsAction="always" />
+
+    <item
+        android:id="@+id/detector_switch"
+        android:icon="@drawable/ic_radio_button_unchecked_black_24dp"
+        android:title="@string/app_name"
+        yourapp:showAsAction="always" />
+
+</menu>
