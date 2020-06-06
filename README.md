@@ -8,6 +8,9 @@ It has got this types of detectors:
 * Pose detector (DNN Based)
 
 And allows you to switch beetween them in real time aswell as take photos and share them!
+## Would like to try it?
+[DOWNLOAD APK FROM HERE](https://mega.nz/file/1Z01AIJb#PXVpzbEm3Vi3y0hBrMLLsgATdslIrPl9TQGw38UJCBs)
+or COMPILE IT FROM ANDROID STUDIO
 ## Compiling app instructions
 To make use of the app you need to:
 1. Clone the project: `git clone https://github.com/elblogbruno/OpenCV-Detectors`
@@ -16,7 +19,7 @@ To make use of the app you need to:
 4. Make the project (click on the green Hammer icon)
 5. Download all the pre-trained neural networks and files from here: [MEGA LINK](https://mega.nz/folder/oNNUgCZR#Hgu_6ysIEs8p4heuDjZ9DA)
 6. Go to `app > build > intermediates > assets > debug` and copy everything that you downloaded there. If folder does not exist re-run step 4.
-7. Connect your phone and click and build!
+7. Connect your phone and build!
 8. Enjoy!
 9. (Optional) Give feedback on what I may need to improve to get more FPS or improve it in general.
 ## Demo Video
